@@ -9,7 +9,7 @@ I enjoy working at the intersection of physics, programming, and data, and I'm m
 - Scientific Computing  
 - Backend Development  
 - Embedded Systems & IoT
-- Optics 
+-  Optics & Fiber-Optic Systems 
 
 🛠️ Tools & Technologies:
 - Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn)
