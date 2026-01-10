@@ -12,7 +12,8 @@ I enjoy working at the intersection of physics, programming, and data, and I'm m
 - Optics 
 
 🛠️ Tools & Technologies:
-- Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn)  
+- Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn)
+- C++
 - SQL (MySQL, PostgreSQL), NoSQL  
 - Django, Flask, JavaScript
 - Machine learning and IA
