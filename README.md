@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Git.png" width="200"/>
+  <img src="Git.png" width="600"/>
 </p>
 
 
