@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**JonaFC06/JonaFC06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jonathan, a Engineering Physics and Telecommunications student with a strong interest in data science, backend development, and embedded systems.
 
-Here are some ideas to get you started:
+I enjoy working on projects that combine physics, programming, and real-world applications — from data analysis and backend services to ESP32-based IoT systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm strengthening my skills in Python, SQL, and backend frameworks, while exploring how data-driven solutions can be applied to engineering and scientific problems.
+
+📌 Areas of interest:
+- Data Science & Data Analysis  
+- Backend Development  
+- Embedded Systems & IoT  
+- Scientific Computing  
+
+🛠️ Tools & Technologies:
+- Python, SQL  
+- Django / Flask  
+- ESP32, Arduino  
+- Git & Linux  
