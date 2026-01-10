@@ -20,5 +20,5 @@ I enjoy working at the intersection of physics, programming, and data, and I'm m
 - C++
 - SQL (MySQL, PostgreSQL), NoSQL  
 - Django, Flask, JavaScript
-- Machine learning and IA
+- Machine learning, IA
 - Git, GitHub, Linux (basic)  
