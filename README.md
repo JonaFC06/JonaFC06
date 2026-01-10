@@ -8,14 +8,14 @@ I'm Jonathan D. Fuentes Calvo, an Engineering Physics and Telecommunications stu
 
 I enjoy working at the intersection of physics, programming, and data, and I'm motivated to apply these skills in international research and technology-driven environments.
 
-📌 Areas of interest:
+## Areas of interest:
 - Data Science & Data Analytics  
 - Scientific Computing  
 - Backend Development  
 - Embedded Systems & IoT
 -  Optics & Fiber-Optic Systems 
 
-🛠️ Tools & Technologies:
+## Tools & Technologies:
 - Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn)
 - C++
 - SQL (MySQL, PostgreSQL), NoSQL  
