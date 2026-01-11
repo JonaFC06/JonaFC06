@@ -18,7 +18,7 @@ I enjoy working at the intersection of physics, programming and data, and I'm mo
 ## Tools & Technologies:
 - Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn)
 - C++
-- SQL (MySQL, PostgreSQL), NoSQL  
+- SQL (MySQL, SQLite, PostgreSQL), NoSQL  
 - Django, Flask, JavaScript
 - Machine learning, IA
 - Git, GitHub, Linux (basic)  
