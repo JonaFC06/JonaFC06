@@ -4,10 +4,7 @@
 
 
 
-I'm Jonathan D. Fuentes Calvo, an Engineering Physics and Telecommunications student from Costa Rica with a strong interest in Data Science, Data Analytics, and backend development applied to scientific and engineering problems.
-
-I enjoy working at the intersection of physics, programming and data, and I'm motivated to apply these skills in international research and technology-driven environments.
-
+I’m Jonathan D. Fuentes Calvo, an Engineering Physics and Telecommunications student from Costa Rica, with a strong interest in the intersection of engineering, programming, and physics, and motivated to apply these skills in international research and technology-driven environments.
 ## Areas of interest:
 - Data Science & Data Analytics  
 - Scientific Computing  
