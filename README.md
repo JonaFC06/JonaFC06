@@ -15,7 +15,7 @@ I’m Jonathan D. Fuentes Calvo, an Engineering Physics and Telecommunications s
 ## Tools & Technologies:
 - Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn)
 - C++
-- SQL (MySQL, SQLite, PostgreSQL), NoSQL  
+-  Machine learning, IA
+- SQL (MySQL, SQLite, PostgreSQL)  
 - Django, Flask, JavaScript
-- Machine learning, IA
 - Git, GitHub, Linux (basic)  
