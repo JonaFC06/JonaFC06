@@ -14,7 +14,7 @@ Experienced in data analysis, experimental systems, sensors and embedded systems
 - Backend Development  
 
 ## Tools & Technologies:
-- Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly (y Dash), BeautifulSoup, Scikit-learn)
+- Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly (Dash), BeautifulSoup, Scikit-learn)
 - C++
 - Machine learning, IA
 - SQL (MySQL, SQLite, PostgreSQL)
