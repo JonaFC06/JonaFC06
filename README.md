@@ -5,7 +5,7 @@
 
 
 Physics and Telecommunications Engineering student from Costa Rica with a strong interest in the intersection of engineering, programming, and applied physics.
-Experienced in data analysis, experimental systems, sensors, and embedded systems, with motivated to contribute to research and technology projects.
+Experienced in data analysis, experimental systems, sensors and embedded systems, with motivated to contribute to research and technology projects.
 ## Areas of interest:
 - Data Science & Data Analytics
 - Embedded Systems & IoT
