@@ -4,18 +4,20 @@
 
 
 
-I’m Jonathan D. Fuentes Calvo, an Engineering Physics and Telecommunications student from Costa Rica, with a strong interest in the intersection of engineering, programming, and physics, and motivated to apply these skills in international research and technology-driven environments.
+Physics and Telecommunications Engineering student from Costa Rica with a strong interest in the intersection of engineering, programming, and applied physics.
+Experienced in data analysis, experimental systems, sensors, and embedded systems, with motivated to contribute to research and technology projects.
 ## Areas of interest:
 - Data Science & Data Analytics
 - Embedded Systems & IoT
-- Scientific Computing  
+- Scientific Computing
+- Optics & Fiber-Optic Systems  
 - Backend Development  
--  Optics & Fiber-Optic Systems 
 
 ## Tools & Technologies:
 - Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn)
 - C++
--  Machine learning, IA
-- SQL (MySQL, SQLite, PostgreSQL)  
-- Django, Flask, JavaScript
-- Git, GitHub, Linux (basic)  
+- Machine learning, IA
+- SQL (MySQL, SQLite, PostgreSQL)
+- Git, GitHub, Linux (basic)    
+- Django, Flask
+
