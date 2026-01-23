@@ -10,7 +10,8 @@ Experienced in data analysis, experimental systems, sensors and embedded systems
 - Data Science & Data Analytics
 - Embedded Systems & IoT
 - Scientific Computing
-- Optics & Fiber-Optic Systems  
+- Optics & Fiber-Optic Systems
+- Network analysis  
 - Backend Development  
 
 ## Tools & Technologies:
