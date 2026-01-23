@@ -21,4 +21,5 @@ Experienced in data analysis, experimental systems, sensors and embedded systems
 - SQL (MySQL, SQLite, PostgreSQL)
 - Git, GitHub, Linux (basic)    
 - Django, Flask
+- IP, HTTP, HTTPS, Ethernet
 
