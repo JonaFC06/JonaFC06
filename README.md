@@ -11,8 +11,8 @@ Experienced in data analysis, experimental systems, sensors and embedded systems
 - Embedded Systems & IoT
 - Scientific Computing
 - Optics & Fiber-Optic Systems
-- Network analysis  
 - Backend Development  
+- Network analysis  
 
 ## Tools & Technologies:
 - Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly (Dash), BeautifulSoup, Scikit-learn)
