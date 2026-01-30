@@ -16,7 +16,7 @@ Experienced in data analysis, experimental systems, sensors and embedded systems
 
 ## Tools & Technologies:
 - Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly (Dash), BeautifulSoup, Scikit-learn)
-- C++
+- C++  (embedded systems, simulation, debugging)
 - Machine learning, IA
 - SQL (MySQL, SQLite, PostgreSQL)
 - Git, GitHub, Linux (basic)    
